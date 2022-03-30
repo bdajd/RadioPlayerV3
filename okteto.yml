@@ -1,2 +1,3 @@
 name: Radio
-workdir: /root/radioplayerV3
+command:
+- start.sh
